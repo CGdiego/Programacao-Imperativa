@@ -15,7 +15,7 @@ int main(){
         den--;
     } while (num <= N);
 
-    printf("%f", S);
+    printf("%f\n", S);
 
     return 0;
 }
