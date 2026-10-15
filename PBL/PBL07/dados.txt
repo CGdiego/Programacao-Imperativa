@@ -1,0 +1,25 @@
+ABC1234;Fiat;Uno Mille;2010
+BRA2E19;Volkswagen;Gol;2019
+QWE5R67;Chevrolet;Onix;2021
+JKL9012;Ford;Ka;2015
+MNO3P45;Toyota;Corolla;2022
+RST6789;Honda;Civic;2018
+UVW1X23;Hyundai;HB20;2020
+XYZ4567;Renault;Sandero;2016
+DEF8G90;Jeep;Renegade;2023
+GHI2345;Nissan;Kicks;2019
+PQR6S78;Peugeot;208;2024
+LMN9012;Citroen;C3;2014
+HIJ3K45;Volkswagen;Polo;2022
+STU6789;Fiat;Palio;2009
+CDE1F23;Chevrolet;Tracker;2023
+FGH4567;Ford;Fiesta;2013
+KLM8N90;Toyota;Hilux;2021
+NOP2345;Honda;Fit;2017
+TUV6W78;Hyundai;Creta;2024
+WXY9012;Renault;Kwid;2020
+ZAB3C45;Fiat;Strada;2025
+BCD6789;Volkswagen;Fusca;1975
+EFG1H23;Chevrolet;Opala;1988
+IJK4567;Ford;Ranger;2012
+OPQ8R90;BYD;Dolphin;2025
